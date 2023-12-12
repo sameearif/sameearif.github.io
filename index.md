@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a **Research Associate** at [Lahore University of Management Sciences](https://lums.edu.pk/) (**LUMS**), working under the expert supervision of [Dr. Agha Ali Raza](https://aghaaliraza.com/), [Dr. Ihsan Ayyub Qazi](https://www.ihsanqazi.com/), and [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/). In addition, I have the privilege of collaborating with [Dr. Awais Athar](https://cl.awaisathar.com/) at [EMBL-EBI University of Cambridge](https://www.ebi.ac.uk/people/person/awais-athar/). I am also an active member of the [Center for Speech and Language Technologies](https://www.c-salt.org/team), contributing to innovative research in the field. I completed my Bachelor of Science in Computer Science from LUMS, graduating in 2023.
+I am a **Research Associate** at [Lahore University of Management Sciences](https://lums.edu.pk/) (**LUMS**), working under the supervision of [Dr. Agha Ali Raza](https://aghaaliraza.com/), [Dr. Ihsan Ayyub Qazi](https://www.ihsanqazi.com/), and [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/). In addition, I have the privilege of collaborating with [Dr. Awais Athar](https://cl.awaisathar.com/) at [EMBL-EBI University of Cambridge](https://www.ebi.ac.uk/people/person/awais-athar/). I am also an active member of the [Center for Speech and Language Technologies](https://www.c-salt.org/team), contributing to innovative research in the field. I completed my Bachelor of Science in Computer Science from LUMS, graduating in 2023.
 
 ## Research Interests
 
 - Multilingual and Multimodal Natural Langauge Processing (NLP)
 - Inclusivity and Accessiblity in NLP
-- Human-Centric Machine Learning (NLP) and Assistive Technologies
+- Human-Centric Machine Learning (ML) and Assistive Technologies
 
 ## Current Research
 
@@ -26,16 +26,14 @@ I am a **Research Associate** at [Lahore University of Management Sciences](http
 
 ## Misc
 
-- A [paper](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf) I really enjoyed reading
-
-- My favourite [song](https://www.youtube.com/watch?v=tAGnKpE4NCI&ab_channel=Metallica)
+- My favourite [song](https://www.youtube.com/watch?v=U77d9912lrw)
 
 - [The Legend of Zelda: Breath of the Wild](https://www.imdb.com/title/tt3253986/) - A Visual and Narrative Masterpiece in Gaming
 <p align="center">
 <img title="a title" alt="Alt text" src="/assets/img/zelda.jpg" height=350>
 </p>
 
-- An Original Digital Artwork by me
+- A Digital Artwork by me
 <p align="center">
 <img title="a title" alt="Alt text" src="/assets/img/PinkSky.png" height=350>
 </p>
