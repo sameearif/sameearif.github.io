@@ -18,6 +18,11 @@ I am a **Research Associate** at [Lahore University of Management Sciences](http
 - Large Language Models for student counselling
 - Speech Technologies (Automatic Speech Recognition and Text-to-Speech systems)
 
+## Awards
+
+- Graduation with High-Merit
+- Dean's Honor List
+
 ## Teaching
 
 - Undergraduate Teaching Assistant, LUMS
