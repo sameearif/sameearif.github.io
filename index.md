@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Research Associate at [Lahore University of Management Sciences](https://lums.edu.pk/) (**LUMS**), working under the expert supervision of [Dr. Agha Ali Raza](https://aghaaliraza.com/), [Dr. Ihsan Ayyub Qazi](https://www.ihsanqazi.com/), and [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/). In addition, I have the privilege of collaborating with [Dr. Awais Athar](https://cl.awaisathar.com/) at [EMBL-EBI University of Cambridge](https://www.ebi.ac.uk/people/person/awais-athar/). I am also an active member of the [Center for Speech and Language Technologies](https://www.c-salt.org/team), contributing to innovative research in the field. I completed my Bachelor of Science in Computer Science from LUMS, graduating in 2023.
+I am a **Research Associate** at [Lahore University of Management Sciences](https://lums.edu.pk/) (**LUMS**), working under the expert supervision of [Dr. Agha Ali Raza](https://aghaaliraza.com/), [Dr. Ihsan Ayyub Qazi](https://www.ihsanqazi.com/), and [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/). In addition, I have the privilege of collaborating with [Dr. Awais Athar](https://cl.awaisathar.com/) at [EMBL-EBI University of Cambridge](https://www.ebi.ac.uk/people/person/awais-athar/). I am also an active member of the [Center for Speech and Language Technologies](https://www.c-salt.org/team), contributing to innovative research in the field. I completed my Bachelor of Science in Computer Science from LUMS, graduating in 2023.
 
 ## Research Interests
 
