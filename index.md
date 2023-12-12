@@ -8,10 +8,9 @@ I am a **Research Associate** at [Lahore University of Management Sciences](http
 
 ## Research Interests
 
-- Human-Centric Machine Learning (NLP)
 - Multilingual and Multimodal Natural Langauge Processing (NLP)
-- Assistive Technologies
 - Inclusivity and Accessiblity in NLP
+- Human-Centric Machine Learning (NLP) and Assistive Technologies
 
 ## Current Research
 
