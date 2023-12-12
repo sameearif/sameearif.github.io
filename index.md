@@ -4,25 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am currently working as a **Research Associate** at [Lahore University of Management Sciences](https://lums.edu.pk/) (**LUMS**), where I have the privilege of working under the supervision of remarkable advisors: [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/), [Dr. Ihsan Ayyub Qazi](https://www.ihsanqazi.com/), and [Dr. Agha Ali Raza](https://aghaaliraza.com/). I completed my Bachelor of Science in Computer Science from LUMS, graduating in 2023.
+I am currently working as a **Research Associate** at [Lahore University of Management Sciences](https://lums.edu.pk/) (**LUMS**), under the supervision of [Dr. Agha Ali Raza](https://aghaaliraza.com/), [Dr. Ihsan Ayyub Qazi](https://www.ihsanqazi.com/), and [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/). I completed my Bachelor of Science in Computer Science from LUMS, graduating in 2023.
 
-I am broadly interested in Distributed Systems and Applied Machine Learning. My current research centers on Multi-access Edge Computing, Federated Learning, and LLMs for Personalized Educational Assistance.
+I am broadly interested in Applied Machine Learning (ML), Natural Language Processing (NLP) for social good and Human-Centric technologies. My current research centers on multimodal and multilingual NLP, question-answering and large language models for student counselling.
 
 ## Research Interests
 
-- Distributed Systems
-- Applied Machine Learning
-
-## Awards
-
-- Graduated LUMS with an Award of Distinction (2023)
-- Students as Co-Researchers Grant (2022)
-- Dean’s Honor List (2019-2022)
+- Human-Centric Machine Learning
+- Natural Langauge Processing
 
 ## Teaching
 
 - Undergraduate Teaching Assistant, LUMS
-    - CS 382: Network-Centric Computing (Spring 2023, Spring 2022)
+    - CS 535: Machine Learning (Fall 2022)
+    - CS 100: Computational Problem Solving (Fall 2021)
 
 ## Misc
 
@@ -30,12 +25,12 @@ I am broadly interested in Distributed Systems and Applied Machine Learning. My 
 
 - My favourite [song](https://www.youtube.com/watch?v=tAGnKpE4NCI&ab_channel=Metallica)
 
-- [The Last of Us: Part II](https://www.imdb.com/title/tt6298000/) - A Narrative Masterpiece in Gaming
+- [The Legend of Zelda: Breath of the Wild](https://www.imdb.com/title/tt3253986/) - A Visual and Narrative Masterpiece in Gaming
 <p align="center">
-<img title="a title" alt="Alt text" src="/assets/img/tlou2.webp" height=350>
+<img title="a title" alt="Alt text" src="/assets/img/zelda.jpg" height=350>
 </p>
 
-- Generated cover art for [Breaking Bad](https://www.imdb.com/title/tt0903747/) using DALL·E 3
+- An Original Digital Artwork by me
 <p align="center">
-<img title="a title" alt="Alt text" src="/assets/img/breakingbad.png" width=500>
+<img title="a title" alt="Alt text" src="/assets/img/Moon.png" width=500>
 </p>
