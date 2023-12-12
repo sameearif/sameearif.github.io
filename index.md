@@ -27,10 +27,10 @@ I am broadly interested in Applied Machine Learning (ML), Natural Language Proce
 
 - [The Legend of Zelda: Breath of the Wild](https://www.imdb.com/title/tt3253986/) - A Visual and Narrative Masterpiece in Gaming
 <p align="center">
-<img title="a title" alt="Alt text" src="/assets/img/zelda.jpg" width=1000 height=350>
+<img title="a title" alt="Alt text" src="/assets/img/zelda.jpg" height=350>
 </p>
 
 - An Original Digital Artwork by me
 <p align="center">
-<img title="a title" alt="Alt text" src="/assets/img/Moon.png" height=350>
+<img title="a title" alt="Alt text" src="/assets/img/Moon.png" width=1000 height=350>
 </p>
