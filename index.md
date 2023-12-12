@@ -32,5 +32,5 @@ I am broadly interested in Applied Machine Learning (ML), Natural Language Proce
 
 - An Original Digital Artwork by me
 <p align="center">
-<img title="a title" alt="Alt text" src="/assets/img/Moon.png" width=500>
+<img title="a title" alt="Alt text" src="/assets/img/Moon.png" height=350>
 </p>
