@@ -16,8 +16,8 @@ linkedin: https://www.linkedin.com/sameearif
 
 # Images
 avatar: ./assets/img/me.jpeg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/favicon.webp
+favicon_dark: ./assets/img/favicon-dark.webp
 
 # Footnote
 enable_footnote: true
