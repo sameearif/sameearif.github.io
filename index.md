@@ -28,12 +28,12 @@ I am a **Research Associate** at [Lahore University of Management Sciences](http
 
 - My favourite [song](https://www.youtube.com/watch?v=U77d9912lrw)
 
-- [The Legend of Zelda: Breath of the Wild](https://www.imdb.com/title/tt3253986/) - A Visual and Narrative Masterpiece in Gaming
+- [The Legend of Zelda: Breath of the Wild](https://www.imdb.com/title/tt3253986/) - A visual and narrative masterpiece in gaming
 <p align="center">
 <img title="a title" alt="Alt text" src="/assets/img/zelda.jpg" height=350>
 </p>
 
-- A Digital Artwork by me
+- A digital artwork by me
 <p align="center">
 <img title="a title" alt="Alt text" src="/assets/img/PinkSky.png" height=350>
 </p>
