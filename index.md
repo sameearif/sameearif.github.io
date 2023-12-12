@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently working as a **Research Associate** at [Lahore University of Management Sciences](https://lums.edu.pk/) (**LUMS**), under the supervision of [Dr. Agha Ali Raza](https://aghaaliraza.com/), [Dr. Ihsan Ayyub Qazi](https://www.ihsanqazi.com/), and [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/). I also a pleasure of working with [Dr. Awais Athar](https://cl.awaisathar.com/). I completed my Bachelor of Science in Computer Science from LUMS, graduating in 2023.
+I am currently working as a **Research Associate** at [Lahore University of Management Sciences](https://lums.edu.pk/) (**LUMS**), under the supervision of [Dr. Agha Ali Raza](https://aghaaliraza.com/), [Dr. Ihsan Ayyub Qazi](https://www.ihsanqazi.com/), and [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/). I also a pleasure of working with [Dr. Awais Athar](https://cl.awaisathar.com/) ([EMBL-EBI University of Cambridge](https://www.ebi.ac.uk/people/person/awais-athar/)). I completed my Bachelor of Science in Computer Science from LUMS, graduating in 2023.
 
 I am broadly interested in Applied Machine Learning (ML), Natural Language Processing (NLP) for social good and Human-Centric technologies. My current research centers on multimodal and multilingual NLP, question-answering and large language models for student counselling.
 
